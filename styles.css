@@ -4,8 +4,8 @@
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    height: 70px;
-    padding-top: 50px;
+    height: 70%;
+    padding-top: 10%;
     font-family: "Sekuya", system-ui;
     font-weight: 400;
     font-style: normal;
@@ -15,29 +15,29 @@
 .class1 {
     display: flex;
     align-items: center;
-    padding-bottom: 10px;
+    padding-bottom: 10%;
 }
 
 .img1 {
-    width: 200px;
-    padding: 40px;
-    padding-top: 50px;
+    width: 40%;
+    padding: 10%;
+    padding-top: 15%;
 }
 
 .class2 {
     display: flex;
     align-items: center;
-    padding-bottom: 10px;
+    padding-bottom: 10%;
 }
 
 .examples {
-    width: 150px;
-    padding: 15px;
+    width: 25%;
+    padding: 3%;
 }
 
 .download {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    height: 70px;
+    height: 70%;
 }
