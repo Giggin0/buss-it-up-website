@@ -3,7 +3,7 @@
 .title {
     display: flex;
     align-items: center;
-    padding-left: 15%;
+    padding-left: 17%;
     height: 70%;
     padding-top: 10%;
     font-family: "Sekuya", system-ui;
@@ -42,4 +42,5 @@
     height: 70%;
 
 }
+
 
